@@ -76,3 +76,12 @@
 
 # Install htop
 #sudo apt install htop
+
+# Install Flutter
+#sudo snap install flutter --classic
+#flutter sdk-path
+
+# Install Chrome
+#wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+#sudo apt install libu2f-udev
+#sudo dpkg -i google-chrome-stable_current_amd64.deb
