@@ -28,7 +28,11 @@
 
 #Install android studio 
 #sudo apt-get install libc6:i386 libncurses5:i386 libstdc++6:i386 lib32z1 libbz2-1.0:i386
-#TODO: best way to automate this step
+#wget https://redirector.gvt1.com/edgedl/android/studio/ide-zips/2022.1.1.21/android-studio-2022.1.1.21-linux.tar.gz
+#tar xvzf android-studio-2022.1.1.21-linux.tar.gz
+#sudo mv android-studio /usr/local
+#cd /usr/local/android-studio/bin
+#./studio.sh
 
 #Install curl
 #sudo apt install curl
@@ -69,3 +73,6 @@
 
 # Source zshrc
 #source ~/.zshrc  
+
+# Install htop
+#sudo apt install htop
