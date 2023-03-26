@@ -87,4 +87,7 @@
 #sudo dpkg -i google-chrome-stable_current_amd64.deb
 
 #Install telegram
-sudo snap install telegram-desktop
+#sudo snap install telegram-desktop
+
+#Install intelij
+#sudo snap install intellij-idea-community --classic
